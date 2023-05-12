@@ -1,0 +1,8 @@
+{
+    "source": ["SuiteView"],
+    "detail-type": ["fetch_camera_images_every_minute"],
+    "detail": {
+      "allowed_cameras": [88, 99, 100]
+    }
+  }
+  
